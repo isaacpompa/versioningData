@@ -1,12 +1,12 @@
 -- \i populate_scores.sql
-insert into scores (guid, assigment, score, generation, lastmodified) values
+insert into scores (guid, assignment, score, generation, lastmodified) values
 	('WER346-89', 'FÌSICA', 7, '2015-2', now()),
 	('WER346-39', 'ICC1', 7, '2014-2', now()),
 	('WER346-79', 'GRAMMAR', 7, '2014-2', now()),
-	('WER346-19', 'SPELLING', 7, '2014-2', now()),
+	('WER046-19', 'SPELLING', 7, '2014-2', now()),
 	('WER346-99', 'ALGEBRA', 7, '2016-2', now()),
 	('WER346-49', 'GEOGRAFÍA', 7, '2016-2', now()),
-	('WER346-19', 'ESPAÑOL', 7, '2016-2', now()),
+	('WERP46-19', 'ESPAÑOL', 7, '2016-2', now()),
 	('WER346-69', 'PROBA', 7, '2016-2', now()),
 	('WER346-19', 'ING.SOFTWARE', 7, '2015-1', now()),
 	('WER346-y9', 'CÁLCULO', 7, '2015-1', now()),
