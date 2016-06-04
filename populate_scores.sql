@@ -1,3 +1,4 @@
+-- \i populate_scores.sql
 insert into scores (guid, assigment, score, generation, lastmodified) values
 	('WER346-89', 'FÌSICA', 7, '2015-2', now()),
 	('WER346-39', 'ICC1', 7, '2014-2', now()),
