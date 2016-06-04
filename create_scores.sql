@@ -2,7 +2,7 @@
 
 create table scores (
 guid text,
-assigment text,
+assignment text,
 score int,
 generation text,
 lastmodified timestamp
